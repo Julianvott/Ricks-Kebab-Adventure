@@ -1,0 +1,10 @@
+.vscode
+
+# ignore for c
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+*.exe
