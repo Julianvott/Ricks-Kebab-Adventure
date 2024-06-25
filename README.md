@@ -100,7 +100,7 @@ Skalierung, Position und Orientierung der Kamera, Perspektivprojektion, Normalen
 
 - [OpenGL](https://www.opengl.org/) - Die offizielle OpenGL-Website
 - Texturen und 3D-Modelle:
-  - [Quelle 01](https://www.aversis.be/textures/brushed-metal-texture.html)
+  - [Quelle 01](https://www.aversis.be/textures/brushed-metal-texture.htm)
   - [Quelle 02](https://www.spacespheremaps.com/hdr-spheremaps/)
   - [Quelle 03](https://opengameart.org/content/seamless-space-backgrounds)
   - [Quelle 04](https://www.freepik.com/free-vector/grunge-style-background-with-scratched-texture-overlay_29081624.htm#query=scratched%20glass%20texture&position=4&from_view=keyword&track=ais_user&uuid=4c01f9cb-c0e2-48b3-9db9-d45c3ce65bb2)
