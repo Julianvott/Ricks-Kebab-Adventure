@@ -32,7 +32,7 @@ Dateien)
 - ✅ Strukturierung der Szene durch einen einfachen Szenengraph
 - ✅ einfache Benutzerinteraktion mit Kamera und/oder Objekten (z. B. über Tastatur)
 - ✅ Beleuchtung der Szene mit mehr als einer Lichtquelle
-- ❌ gleichzeitige Verwendung von mindestens zwei Texturen in einem Objekt
+- ✅ gleichzeitige Verwendung von mindestens zwei Texturen in einem Objekt
 - ✅ gleichzeitige Verwendung von mindestens zwei verschiedenen Shader-Programmen in einer
 Szene
 - ✅ transparente Objekte
